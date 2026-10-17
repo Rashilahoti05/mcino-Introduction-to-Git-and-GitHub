@@ -1,0 +1,7 @@
+
+C:\Users\lahot\mcino-Introduction-to-Git-and-GitHub>git branch -avv
+* bug-fix-typo                9fcfbd1 [origin/bug-fix-typo] Fix typo in additional authors comment
+  main                        9fcfbd1 [origin/main: ahead 1] Fix typo in additional authors comment
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 9fcfbd1 Fix typo in additional authors comment
+  remotes/origin/main         b7bfde9 Create forked-repo
